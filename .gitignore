@@ -10,3 +10,9 @@ target
 src-tauri/gen
 *.log
 
+node_modules
+dist
+target
+src-tauri/gen
+*.log
+
