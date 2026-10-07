@@ -1,0 +1,7 @@
+{
+  "identifier": "default",
+  "description": "Minimal capability for the main window: core only, no fs, shell or http access.",
+  "windows": ["main"],
+  "permissions": ["core:default"]
+}
+
